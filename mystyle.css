@@ -1,0 +1,80 @@
+.top_bar
+{
+	background:#F3A183;
+	padding:5px 0;
+}
+ .social_icons
+ {
+	 margin-right:5px;
+ }
+ .contact_info
+ {
+	 color:#fff;
+	 font-size:15px;
+ }
+ .mymenu
+ {
+	 margin-top:27px;
+ }
+ .mymenu .navbar-default
+ {
+	 border:none;
+	 background:none;
+ }
+ .mymenu .navbar-nav li a:hover
+ {
+	 background:#F3A183;
+	  color:#fff;
+ }
+ .mymenu .navbar-nav .active a,.mymenu .navbar-nav .active a:hover
+ {
+	 background:#F3A183;
+	 color:#fff;
+ }
+  .lang
+  {
+	  margin-top:45px;
+	  margin-bottom:45px;
+  }
+  .our_services
+  {
+	  background: radial-gradient(circle, #EC6F66, #F3A183);
+	  padding:20px 0px;
+  }
+    .our_services h1
+  {
+	color:#fff;
+  }
+  .our_services .top_margin
+  {
+	  margin-top:40px;
+  }
+  .footer
+  {
+	  color:#fff;
+	  background:#333333;
+	  padding:30px 0px;
+  }
+  .footer p
+  {
+	  margin-top:15px;
+  }
+   .footer ul
+   {
+	display-inline:center;
+	margin:0px;
+	padding:0px;
+	list-style:none;	 
+   }
+   .footer ul a
+   {
+	   color:#fff;
+	   font-size:15px;
+   }
+ @media (max-width:1200px)
+ {
+	 .mymenu .pull-right
+	 {
+		 float:none !important;
+	 }
+ }
